@@ -1,0 +1,2 @@
+# Infos
+Information about HabboDocs
